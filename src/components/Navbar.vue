@@ -8,7 +8,7 @@ import Data from "../data/NavData";
     class="hidden sm:block bg-UTAMA drop-shadow-lg fixed top-0 right-0 left-0"
   >
     <div class="bg-DARKBLUE05">
-      <div class="container flex justify-between mx-auto py-4">
+      <div class="container flex justify-between items-center mx-auto py-4">
         <div class="flex flex-row text-2xl font-bold">
           <p class="text-MERAH font-bold">Wynn</p>
         </div>

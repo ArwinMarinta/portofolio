@@ -17,6 +17,7 @@ export default {
         UTAMA: "#101017",
         MERAH: "#FF0000",
         GRAY01: "#313131",
+        GRAY02: "#4A4A4A",
       },
     },
   },
